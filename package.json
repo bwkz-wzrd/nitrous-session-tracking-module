@@ -1,0 +1,23 @@
+{
+  "name": "nitrous-session-tracking-module",
+  "version": "1.0.0",
+  "description": "A Mean stack project to create a session tracking capability",
+  "main": "app.js",
+  "dependencies": {
+    "mongod": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwkz-wzrd/nitrous-session-tracking-module.git"
+  },
+  "author": "Wing Kuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwkz-wzrd/nitrous-session-tracking-module/issues"
+  },
+  "homepage": "https://github.com/bwkz-wzrd/nitrous-session-tracking-module#readme"
+}
