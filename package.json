@@ -4,6 +4,7 @@
   "description": "A Mean stack project to create a session tracking capability",
   "main": "app.js",
   "dependencies": {
+    "express": "latest",
     "mongod": "^1.3.0"
   },
   "devDependencies": {},
